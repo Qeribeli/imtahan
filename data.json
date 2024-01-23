@@ -1,0 +1,58 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": 2,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": 3,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": 4,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": 5,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": 6,
+      "img": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png",
+      "name": "Green Dress with details",
+      "price": "$40.00"
+    },
+    {
+      "id": "ffce",
+      "img": "file:///C:/Users/ClassTime/Desktop/imtahan/add.html?",
+      "name": "sas",
+      "price": "asas"
+    },
+    {
+      "id": "1adc",
+      "img": "file:///C:/Users/ClassTime/Desktop/imtahan/add.html",
+      "name": "b",
+      "price": "n"
+    },
+    {
+      "id": "05b3",
+      "img": "file:///C:/Users/ClassTime/Desktop/imtahan/add.html",
+      "name": "ui",
+      "price": "f"
+    }
+  ]
+}

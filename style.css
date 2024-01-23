@@ -1,0 +1,314 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: black;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+.navbar .country-tel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.navbar ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+.navbar select {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+nav {
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  display: flex;
+  color: black;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+nav .search {
+  display: flex;
+  gap: 20px;
+}
+nav button {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 25%;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+nav button:hover {
+  background-color: rgb(78, 78, 238);
+}
+nav input {
+  border: none;
+}
+nav i {
+  margin-top: 10px;
+}
+nav .bi-list {
+  font-size: 20px;
+  display: none;
+}
+
+.section {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  gap: 30px;
+  background-image: url("https://preview.colorlib.com/theme/estore/assets/img/hero/h1_hero.jpg");
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+}
+.section .img {
+  width: 50%;
+  height: 80%;
+}
+.section .img img {
+  width: 100%;
+  height: 100%;
+}
+.section .text {
+  width: 50%;
+}
+.section .text button {
+  width: 130px;
+  height: 40px;
+  background-color: rgb(48, 19, 212);
+  border: none;
+  border-radius: 10%;
+  color: white;
+}
+.section .text h3 {
+  font-family: "Pinyon Script", cursive;
+  color: rgb(50, 16, 201);
+}
+.section .text h1 {
+  font-size: 40px;
+}
+
+.section1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.section1 .h2 {
+  width: 400px;
+  height: 80px;
+}
+.section1 .h2 h2 {
+  font-size: 38px;
+}
+.section1 .text {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+.section1 .img {
+  width: 100%;
+  height: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+}
+.section1 .img img {
+  width: 60%;
+}
+.section1 .img .text1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.section1 .img .text1 p {
+  font-family: "Akshar", sans-serif;
+}
+.section1 .img .text1 button {
+  width: 140px;
+  height: 46px;
+  background-color: yellow;
+  border: none;
+  border-radius: 10%;
+}
+
+.f1 {
+  background-color: black;
+  color: white;
+  display: none;
+}
+.f1 ul {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  list-style: none;
+}
+
+.section2 {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  background-image: url("https://preview.colorlib.com/theme/estore/assets/img/hero/h1_hero.jpg");
+  background-repeat: no-repeat;
+  align-items: center;
+  gap: 20px;
+}
+.section2 .text1 {
+  width: 50%;
+  height: 70%;
+  font-family: "Newsreader", serif;
+}
+.section2 .text1 h2 {
+  font-size: 30px;
+}
+.section2 .text1 p {
+  font-family: "Newsreader", serif;
+  font-size: 15px;
+}
+.section2 input {
+  height: 40px;
+  border: none;
+}
+.section2 button {
+  width: 120px;
+  height: 40px;
+  background-color: aqua;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.section3 {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.section3 .text {
+  width: 20%;
+  height: 100%;
+}
+
+.section4 {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.section4 .text {
+  width: 100%;
+}
+.section4 .text ul {
+  list-style: none;
+}
+
+.card1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card1 .text {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card1 .text ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+.card1 .card {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+}
+
+.cardd {
+  width: 100%;
+  height: 40px;
+}
+.cardd a {
+  font-size: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar {
+    display: none;
+  }
+  nav i {
+    display: none;
+  }
+  nav input {
+    display: none;
+  }
+  .menu {
+    display: none;
+  }
+  .search {
+    display: none;
+  }
+  nav button {
+    display: none;
+  }
+  nav .bi-list {
+    display: block;
+  }
+  .section .img {
+    display: none;
+  }
+  .text {
+    display: flex;
+    flex-direction: column;
+  }
+  .img {
+    display: flex;
+    flex-direction: column;
+  }
+  .section2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .section3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .section4 {
+    display: flex;
+    flex-direction: column;
+  }
+  .card1 .card {
+    display: grid;
+    grid-template-columns: auto;
+  }
+}/*# sourceMappingURL=style.css.map */
